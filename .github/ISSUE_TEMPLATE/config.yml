@@ -1,5 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: David Blue's contact card.
-    url: https://davidblue.wtf/contact
+    url: https://davidblue.wtf/db.vcf
     about: David Blue's .vcf format contact card file.
