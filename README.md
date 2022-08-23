@@ -29,6 +29,7 @@ Updated `08182022-113809`
 ![Underdocumented iOS Maneuvers](https://i.snap.as/vYlsxofN.jpg)
 
 # Notes-Underdocumented iOS Maneuvers
+
 - [GitHub Issue](https://github.com/extratone/bilge/issues/56)
 - [Underdocumented iOS Maneuvers](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [WTF](https://davidblue.wtf/drafts/464F92D4-5A63-4447-BBF7-CB1B0D885568.html)
@@ -57,7 +58,7 @@ Updated `08182022-113809`
 - - - -
 - [ ] The [GitHub Issue](https://github.com/extratone/bilge/issues/56).
 - [ ] [Post on r/iphone](https://www.reddit.com/r/iphone/comments/l5ofja/underdocumented_functions_in_ios_stuff_you_wish/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-- [ ] How to clear your iPhone’s RAM. ([Tweet](https://twitter.com/neoyokel/status/1344866358333472772?s=21))
+- [ ] How to clear your iPhone’s RAM. ([Tweet](https://twitter.com/neoyokel/status/1344866358333472772))
 - [ ] Timestamps in iMessage
 - [ ] [iPhone Users Guide](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=1515995528)
 - [ ] [[iPhone, iOS, and The Magic Keyboard: A Guide]]
@@ -81,6 +82,7 @@ Updated `08182022-113809`
 ---
 
 # Underdocumented iOS Maneuvers
+<u></u>
 - [Notes-Underdocumented iOS Maneuvers](drafts://open?uuid=464F92D4-5A63-4447-BBF7-CB1B0D885568)
 
 ![Underdocumented iOS Maneuvers](https://i.snap.as/vYlsxofN.jpg)
